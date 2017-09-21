@@ -1,0 +1,24 @@
+{
+  "name": "read-history",
+  "version": "1.0.0",
+  "description": "A tool for reading the sqlite database Chrome's history is stored in.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madroxprime/read-history.git"
+  },
+  "keywords": [
+    "database",
+    "Chrome",
+    "history"
+  ],
+  "author": "John Anderson <andersj5@fargo.k12.nd.us>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madroxprime/read-history/issues"
+  },
+  "homepage": "https://github.com/Madroxprime/read-history#readme"
+}
